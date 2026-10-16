@@ -1,0 +1,11 @@
+[project]
+name = "estadisticas-partes"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "pypdf2>=3.0.1",
+    "reportlab>=5.0.1",
+]
